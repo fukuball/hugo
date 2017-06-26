@@ -1,0 +1,17 @@
+baseURL = "https://fukuball.github.io/hugo/"
+languageCode = "en-us"
+title = "Fukuball"
+disqusShortname = 'fukuball'
+
+[Author]
+  name = "Fukuball Link"
+  email = "fukuball@gmail.com"
+  facebook = "fukuball"
+  github = "fukuball"
+  twitter = "fukuball"
+  instagram = "fukuball"
+
+[[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 3
