@@ -28,8 +28,14 @@
   </url>
   
   <url>
-    <loc>https://www.fukuball.com/hugo/about/</loc>
+    <loc>https://www.fukuball.com/hugo/about-fukuball/</loc>
     <lastmod>2017-06-26T10:16:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/tags/about/</loc>
+    <lastmod>2017-06-26T10:16:11+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -44,13 +50,74 @@
   </url>
   
   <url>
+    <loc>https://www.fukuball.com/hugo/tags/fukuball/</loc>
+    <lastmod>2017-06-26T10:16:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/tags/go/</loc>
+    <lastmod>2017-06-26T10:21:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/tags/math/</loc>
+    <lastmod>2017-06-26T14:29:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/categories/math/</loc>
+    <lastmod>2017-06-26T14:29:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/categories/page/</loc>
+    <lastmod>2017-06-26T10:16:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/tags/php/</loc>
+    <lastmod>2017-06-26T10:21:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fukuball.com/hugo/post/</loc>
     <lastmod>2017-06-26T14:29:24+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://www.fukuball.com/hugo/tags/programming/</loc>
+    <lastmod>2017-06-26T10:27:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/categories/programming-language/</loc>
+    <lastmod>2017-06-26T10:27:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/tags/python/</loc>
+    <lastmod>2017-06-26T10:22:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fukuball.com/hugo/tags/ruby/</loc>
+    <lastmod>2017-06-26T10:27:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fukuball.com/hugo/tags/</loc>
+    <lastmod>2017-06-26T10:16:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
