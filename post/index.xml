@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fukuball</title>
-    <link>https://fukuball.github.io/hugo/post/</link>
+    <link>https://www.fukuball.com/hugo/post/</link>
     <description>Recent content in Posts on Fukuball</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,51 +10,51 @@
     <webMaster>fukuball@gmail.com (Fukuball Link)</webMaster>
     <lastBuildDate>Mon, 26 Jun 2017 14:29:24 +0800</lastBuildDate>
     
-	<atom:link href="https://fukuball.github.io/hugo/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.fukuball.com/hugo/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Math</title>
-      <link>https://fukuball.github.io/hugo/post/math/</link>
+      <link>https://www.fukuball.com/hugo/post/math/</link>
       <pubDate>Mon, 26 Jun 2017 14:29:24 +0800</pubDate>
       <author>fukuball@gmail.com (Fukuball Link)</author>
-      <guid>https://fukuball.github.io/hugo/post/math/</guid>
+      <guid>https://www.fukuball.com/hugo/post/math/</guid>
       <description>Math Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Ruby</title>
-      <link>https://fukuball.github.io/hugo/post/ruby/</link>
+      <link>https://www.fukuball.com/hugo/post/ruby/</link>
       <pubDate>Mon, 26 Jun 2017 10:27:14 +0800</pubDate>
       <author>fukuball@gmail.com (Fukuball Link)</author>
-      <guid>https://fukuball.github.io/hugo/post/ruby/</guid>
+      <guid>https://www.fukuball.com/hugo/post/ruby/</guid>
       <description>Ruby Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://fukuball.github.io/hugo/post/python/</link>
+      <link>https://www.fukuball.com/hugo/post/python/</link>
       <pubDate>Mon, 26 Jun 2017 10:22:00 +0800</pubDate>
       <author>fukuball@gmail.com (Fukuball Link)</author>
-      <guid>https://fukuball.github.io/hugo/post/python/</guid>
+      <guid>https://www.fukuball.com/hugo/post/python/</guid>
       <description>Python Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>PHP</title>
-      <link>https://fukuball.github.io/hugo/post/php/</link>
+      <link>https://www.fukuball.com/hugo/post/php/</link>
       <pubDate>Mon, 26 Jun 2017 10:21:57 +0800</pubDate>
       <author>fukuball@gmail.com (Fukuball Link)</author>
-      <guid>https://fukuball.github.io/hugo/post/php/</guid>
+      <guid>https://www.fukuball.com/hugo/post/php/</guid>
       <description>PHP Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://fukuball.github.io/hugo/post/go/</link>
+      <link>https://www.fukuball.com/hugo/post/go/</link>
       <pubDate>Mon, 26 Jun 2017 10:21:53 +0800</pubDate>
       <author>fukuball@gmail.com (Fukuball Link)</author>
-      <guid>https://fukuball.github.io/hugo/post/go/</guid>
+      <guid>https://www.fukuball.com/hugo/post/go/</guid>
       <description>Go Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
