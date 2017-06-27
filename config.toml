@@ -1,4 +1,4 @@
-baseURL = "https://fukuball.github.io/hugo/"
+baseURL = "https://www.fukuball.com/hugo/"
 languageCode = "en-us"
 title = "Fukuball"
 disqusShortname = 'fukuball'
@@ -14,4 +14,9 @@ disqusShortname = 'fukuball'
 [[menu.main]]
     name = "About"
     url = "about"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
     weight = 3

@@ -3,8 +3,11 @@ title = "Math"
 date = "2017-06-26T14:29:24+08:00"
 draft = false
 subtitle = ""
-tags = []
+tags = ["Math"]
 comments = true
+categories = [
+  "Math"
+]
 +++
 
 # Math

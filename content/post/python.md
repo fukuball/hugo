@@ -3,8 +3,11 @@ title = "Python"
 date = "2017-06-26T10:22:00+08:00"
 draft = false
 subtitle = ""
-tags = []
+tags = ["Programming", "Python"]
 comments = true
+categories = [
+  "Programming Language"
+]
 +++
 
 # Python

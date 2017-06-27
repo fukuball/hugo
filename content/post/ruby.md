@@ -3,8 +3,11 @@ title = "Ruby"
 date = "2017-06-26T10:27:14+08:00"
 draft = false
 subtitle = ""
-tags = []
+tags = ["Programming", "Ruby"]
 comments = true
+categories = [
+  "Programming Language"
+]
 +++
 
 # Ruby

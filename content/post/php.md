@@ -3,8 +3,11 @@ title = "PHP"
 date = "2017-06-26T10:21:57+08:00"
 draft = false
 subtitle = ""
-tags = []
+tags = ["Programming", "PHP"]
 comments = true
+categories = [
+  "Programming Language"
+]
 +++
 
 # PHP
